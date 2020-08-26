@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\UnitTest1_AMS.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\UnitTest1_AMS.pdb
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Assignment2019.exe
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Assignment2019.pdb
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Assignment2019.exe.config
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\obj\Debug\UnitTest1_AMS.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\obj\Debug\UnitTest1_AMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\obj\Debug\UnitTest1_AMS.csproj.CopyComplete
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\obj\Debug\UnitTest1_AMS.dll
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\UnitTest1_AMS\obj\Debug\UnitTest1_AMS.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\bin\Debug\Assignment2019.exe.config
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\bin\Debug\Assignment2019.exe
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\bin\Debug\Assignment2019.pdb
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.Properties.Resources.resources
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.exe
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.pdb
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.Barchart_aadarsha.resources
+C:\Users\HP\Desktop\visualstudio2\Assignment2019\Assignment2019\obj\Debug\Assignment2019.Spreadsheet_aadarsha.resources
